@@ -1,4 +1,4 @@
-import{b as BtS,c as StB}from'/that=binary.switcher.js';
+import{b as BtS,c as StB}from'/binary.switcher.js';
 import{TtB64,TfB64}from'/to.or.from.js';
 import{a,d,beta}from'/json.js';
 "use strict";/*
